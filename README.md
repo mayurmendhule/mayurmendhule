@@ -3,18 +3,21 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayur&label=Profile%20views&color=0e75b6&style=flat" alt="mayur" /> </p>
 
 <img align='right' src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" width="230">
-<p align="left"> <a href="https://twitter.com/MayurMendhule?s=08" target="blank"><img src="https://img.shields.io/twitter/follow/mayur?logo=twitter&style=for-the-badge" alt="mayur" /></a> </p>
+
+
 
 [![Twitter: MayurMendhule](https://img.shields.io/twitter/follow/MayurMendhule?style=social)](https://twitter.com/MayurMendhule?s=08)
 [![Linkedin: Mayur](https://img.shields.io/badge/mayur-mendhule-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayurmendhule/)](https://www.linkedin.com/in/mayurmendhule/)
 [![GitHub Mayur](https://img.shields.io/github/followers/Mayur?label=follow&style=social)](https://github.com/mayurmendhule)
 
 
+
+
 - 🌱 I’m currently learning **DSA**
-- 💬 Ask me about ** Web development And Gaming **
+- 💬 Ask me about **Web development And Gaming**
 - 🏆 2023 Goal: Contribute more to Open Source Projects.
 - 📫 How to reach me **mayurmendhule03@gmail.com**
-- ⚡ Fun fact ** Ctrl + C and Ctrl + V have saved more lives than Batman and Iron Man. **
+- ⚡ Fun fact **Ctrl + C and Ctrl + V have saved more lives than Batman and Iron Man.**
 
 
 
