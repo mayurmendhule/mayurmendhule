@@ -17,6 +17,9 @@
 - ⚡ Fun fact ** Ctrl + C and Ctrl + V have saved more lives than Batman and Iron Man. **
 
 
+
+
+
 **Languages and Tools I am Familiar With:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -30,12 +33,17 @@
 <code><img height="20" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
 
 
+---------------------------------------------------------------------------------------------------------------------------------------
+###
 ### Show some ❤️ by starring some of the repositories!
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mayur&show_icons=true&locale=en&layout=compact" alt="mayur" /></p> -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayur&show_icons=true&locale=en" alt="mayur" /></p>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayur&" alt="mayur" /></p> -->
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>Hi, I'll be happy to meet you!</b> :)</em>
 
