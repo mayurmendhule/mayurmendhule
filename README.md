@@ -34,7 +34,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayur&" alt="mayur" /></p>
 
-⭐️ From [@Yog9](https://github.com/mayurmendhule)
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>Hi, I'll be happy to meet you!</b> :)</em>
+
+
+⭐️ From [@Mauyr](https://github.com/mayurmendhule)
 
 
 
