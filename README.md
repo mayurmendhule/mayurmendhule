@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm [Mayur](https://yog9.github.io/portfolio) ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> 
-<h3 align="left">A passionate frontend developer from India</h3>
+<h2 align="left">A passionate Frontend Developer from India</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayur&label=Profile%20views&color=0e75b6&style=flat" alt="mayur" /> </p>
 
 <img align='right' src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" width="230">
