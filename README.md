@@ -48,7 +48,7 @@
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>Hi, I'll be happy to meet you!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><h3>I love connecting with different people</h3> so if you want to say <h2>Hi, I'll be happy to meet you!</h2> :)</em>
 
 
 ⭐️ From [@Mauyr](https://github.com/mayurmendhule)
