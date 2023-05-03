@@ -1,4 +1,4 @@
-### Hi there 👋, I'm [Mayur](https://yog9.github.io/portfolio) ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> 
+### Hi there 👋, I'm [Mayur](https://mmportfolio.onrender.com/) ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> 
 <h2 align="left">A passionate Frontend Developer from India</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayur&label=Profile%20views&color=0e75b6&style=flat" alt="mayur" /> </p>
 
