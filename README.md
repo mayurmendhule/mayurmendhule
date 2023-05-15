@@ -39,11 +39,10 @@
 ---------------------------------------------------------------------------------------------------------------------------------------
 ###
 ### Show some ❤️ by starring some of the repositories!
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mayur&show_icons=true&locale=en&layout=compact" alt="mayur" /></p> -->
+![Github stats](https://github-readme-stats.vercel.app/api?username=mayur&show_icons=true&hide_border=true)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayur&show_icons=true&locale=en" alt="mayur" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayur&show_icons=true&locale=en" alt="mayur" /></p> -->
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayur&" alt="mayur" /></p> -->
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
