@@ -36,10 +36,9 @@
 <code><img height="20" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
 
 
----------------------------------------------------------------------------------------------------------------------------------------
-###
-### Show some ❤️ by starring some of the repositories!
-![Github stats](https://github-readme-stats.vercel.app/api?username=mayur&show_icons=true&hide_border=true)
+### 
+<!-- ### Show some ❤️ by starring some of the repositories! -->
+<!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=mayur&show_icons=true&hide_border=true) -->
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayur&show_icons=true&locale=en" alt="mayur" /></p> -->
 
