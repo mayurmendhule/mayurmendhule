@@ -13,7 +13,7 @@
 
 
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **DevOps**
 - 💬 Ask me about **Web development And Gaming**
 - 🏆 2023 Goal: Contribute more to Open Source Projects.
 - 📫 How to reach me **mayurmendhule03@gmail.com**
