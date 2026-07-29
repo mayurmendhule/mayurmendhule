@@ -1,39 +1,25 @@
-### Hi there 👋, I'm [Mayur](https://mmportfolio.onrender.com/) ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> 
-<h2 align="left">A passionate Frontend Developer from India</h2>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayur&label=Profile%20views&color=0e75b6&style=flat" alt="mayur" /> </p>
+### Hi there 👋, I'm [Mayur](https://mmportfolio.onrender.com/) <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40"> ! <img align='right' src="https://komarev.com/ghpvc/?username=mayur&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
+<h2 align="left">📊 Data Analyst | Power BI | SQL | Frontend Developer</h2> 
 
-<img align='right' src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" width="230">
-
+<img align='right' src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" width="210">
 
 
-[![Twitter: MayurMendhule](https://img.shields.io/twitter/follow/MayurMendhule?style=social)](https://twitter.com/MayurMendhule?s=08)
-[![Linkedin: Mayur](https://img.shields.io/badge/mayur-mendhule-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayurmendhule/)](https://www.linkedin.com/in/mayurmendhule/)
-[![GitHub Mayur](https://img.shields.io/github/followers/Mayur?label=follow&style=social)](https://github.com/mayurmendhule)
+- 📊 Passionate about transforming data into meaningful insights through interactive dashboards and reports.
+- 💻 Experienced in building web applications with **React.js**, **REST APIs**, and **PostgreSQL**.
+- 🌱 Currently learning **Advanced SQL, DAX, Power Query, and AI for Data Analytics**.
+- 🎯 Seeking opportunities as a **Data Analyst / Business Intelligence Developer**.
+- 📫 Reach me at **mayurmendhule03@gmail.com**
 
+## 🤖 AI & Data Analytics 
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
 
-
-
-- 🌱 I’m currently learning **DevOps**
-- 💬 Ask me about **Web development And Gaming**
-- 🏆 2023 Goal: Contribute more to Open Source Projects.
-- 📫 How to reach me **mayurmendhule03@gmail.com**
-- ⚡ Fun fact **Ctrl + C and Ctrl + V have saved more lives than Batman and Iron Man.**
-
-## 🤖 AI & Data Analytics Tools
-
-<code><img height="20" src="https://cdn.simpleicons.org/openai" alt="OpenAI"></code>
-<code><img height="20" src="https://cdn.simpleicons.org/chatgpt" alt="ChatGPT"></code>
-<code><img height="20" src="https://cdn.simpleicons.org/microsoftpowerbi" alt="Power BI"></code>
-<code><img height="20" src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL"></code>
-<code><img height="20" src="https://cdn.simpleicons.org/mysql" alt="MySQL"></code>
-<code><img height="20" src="https://cdn.simpleicons.org/microsoftsqlserver" alt="SQL Server"></code>
-<code><img height="20" src="https://cdn.simpleicons.org/microsoftexcel" alt="Microsoft Excel"></code>
-<code><img height="20" src="https://cdn.simpleicons.org/googleanalytics" alt="Google Analytics"></code>
-
-
-
-**Languages and Tools I am Familiar With:**  
-
+## 💻 Languages & Tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -53,12 +39,14 @@
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
+## 🚀 Featured Projects
 
+- 📊 **Sales Dashboard** – Power BI, SQL, DAX
+- 📊 **Rapido Data Analysis Dashboard** – Power BI, SQL, DAX
+- 🍽️ **Order Management System** – React.js, Node.js, PostgreSQL
+- 📈 **Business Analytics Dashboard** – Power BI, Data Visualization
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>Hi, I'll be happy to meet you!</b></em>
-
-
-⭐️ From [@Mauyr](https://github.com/mayurmendhule)
-
-
+## 💡 Motto
+> **Turning data into insights and ideas into impactful solutions.**
+⭐️ From **[@mayurmendhule](https://github.com/mayurmendhule)**
 
