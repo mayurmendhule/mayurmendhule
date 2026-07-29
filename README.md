@@ -19,7 +19,16 @@
 - 📫 How to reach me **mayurmendhule03@gmail.com**
 - ⚡ Fun fact **Ctrl + C and Ctrl + V have saved more lives than Batman and Iron Man.**
 
+## 🤖 AI & Data Analytics Tools
 
+<code><img height="20" src="https://cdn.simpleicons.org/openai" alt="OpenAI"></code>
+<code><img height="20" src="https://cdn.simpleicons.org/chatgpt" alt="ChatGPT"></code>
+<code><img height="20" src="https://cdn.simpleicons.org/microsoftpowerbi" alt="Power BI"></code>
+<code><img height="20" src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL"></code>
+<code><img height="20" src="https://cdn.simpleicons.org/mysql" alt="MySQL"></code>
+<code><img height="20" src="https://cdn.simpleicons.org/microsoftsqlserver" alt="SQL Server"></code>
+<code><img height="20" src="https://cdn.simpleicons.org/microsoftexcel" alt="Microsoft Excel"></code>
+<code><img height="20" src="https://cdn.simpleicons.org/googleanalytics" alt="Google Analytics"></code>
 
 
 
