@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm [Mayur](https://mmportfolio.onrender.com/) <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40"> ! <img align='right' src="https://komarev.com/ghpvc/?username=mayur&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
-<h2 align="left">📊 Data Analyst | Power BI | SQL | Frontend Developer</h2> 
-
+<h2 align="left"> 📊 Microsoft Certified Power BI Data Analyst (PL-300) | SQL | Frontend Developer</h2>
 <img align='right' src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" width="210">
 
 
